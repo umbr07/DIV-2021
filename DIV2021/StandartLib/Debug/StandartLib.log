@@ -1,0 +1,31 @@
+﻿Сборка начата 20.12.2021 2:11:08.
+Уровень детализации журнала: Normal.     1>Проект "D:\Курсовой проект DIV-2021\DIV2021\StandartLib\StandartLib.vcxproj" в узле 3 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\StandartLib.tlog\StandartLib.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Создание "Debug\StandartLib.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"D:\Курсовой проект DIV-2021\DIV2021\Debug\StandartLib.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt pch.cpp StandartLib.cpp
+         pch.cpp
+         StandartLib.cpp
+         Создание кода...
+     1>D:\Курсовой проект DIV-2021\DIV2021\StandartLib\StandartLib.cpp(23): warning C4172: возвращение адреса локальной или временной переменной : buf
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\Lib.exe /OUT:"D:\Курсовой проект DIV-2021\DIV2021\Debug\StandartLib.lib" /NOLOGO /MACHINE:X86 Debug\pch.obj
+         Debug\StandartLib.obj
+         StandartLib.vcxproj -> D:\Курсовой проект DIV-2021\DIV2021\Debug\StandartLib.lib
+       FinalizeBuildStatus:
+         Файл "Debug\StandartLib.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\StandartLib.tlog\StandartLib.lastbuildstate".
+     1>Сборка проекта "D:\Курсовой проект DIV-2021\DIV2021\StandartLib\StandartLib.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "D:\Курсовой проект DIV-2021\DIV2021\StandartLib\StandartLib.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Курсовой проект DIV-2021\DIV2021\StandartLib\StandartLib.cpp(23): warning C4172: возвращение адреса локальной или временной переменной : buf
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:03.17
